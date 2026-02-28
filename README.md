@@ -1,4 +1,4 @@
-Sales Analysis Dashboard - Power BI Project
+Employee Attrition - Green Destinations Project using Python and Jupyter Notebook
 
 🎯 Objective
 
